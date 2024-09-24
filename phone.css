@@ -1,0 +1,67 @@
+#unique{
+    flex-direction: column;
+
+}
+#unique ul li a{
+    padding: 2px 10px;
+    font-size: 0.9rem;
+}
+
+#home{
+    height: 200px;
+    flex-direction: column;
+
+}
+
+#home::before{
+    height: 400px;
+}
+#home p{
+    font-size: 0.8rem;
+    margin: 0px 0px;
+}
+
+.btn{
+    font-size: 11px;
+    margin-top: 43px;
+}
+.primary {
+    margin-top: 10px;
+    font-size:2.2rem ;
+    padding: 10px;
+    padding-top: 42px;
+}
+.head{
+    font-size: 1.9rem;
+    margin-top: 75px;
+}
+
+
+
+#services{
+    flex-direction: column;
+
+}
+#services .box img {
+    height: 100px;
+
+}
+
+
+#clients{
+    flex-wrap: wrap;
+    margin: 10px 1px;
+
+}
+.client-item {
+    padding: 2px 5px;
+}
+
+#clients img {
+    height: 75px;
+}
+
+
+#contract-box form {
+    width: 80%;
+}
